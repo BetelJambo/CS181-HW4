@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697857754 source:c:\users\gurar\onedrive\documents\cs 181 4\hw4\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"employee.cpp"
+	<iomanip>
+
+1697853329 c:\users\gurar\onedrive\documents\cs 181 4\hw4\employee.h
+	<string>
+
+1697853242 c:\users\gurar\onedrive\documents\cs 181 4\hw4\employee.cpp
+	<string>
+	<cstdlib>
+	"Employee.h"
+
